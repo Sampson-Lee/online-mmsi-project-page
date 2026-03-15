@@ -112,6 +112,12 @@ body {
   font-family: 'Inter', sans-serif;
 }
 
+.teaser-caption {
+  margin-top: 1.5rem !important;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 
 /* Publication Content Styling */
 .publication-title {
@@ -748,5 +754,4 @@ a:focus {
     box-shadow: none !important;
   }
 }
-
 
