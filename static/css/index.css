@@ -104,8 +104,8 @@ body {
 }
 
 .teaser .hero-body {
-  padding-top: 2rem;
-  padding-bottom: 4rem;
+  padding-top: 0.5rem;
+  padding-bottom: 2.5rem;
 }
 
 .teaser {
@@ -142,7 +142,7 @@ body {
 }
 
 .publication-header .hero-body {
-  padding: 6rem 1.5rem 4rem;
+  padding: 5rem 1.5rem 1.5rem;
 }
 
 .publication-authors {
@@ -605,7 +605,7 @@ code {
   }
   
   .publication-header .hero-body {
-    padding: 3rem 1rem 2rem;
+    padding: 2.5rem 1rem 1rem;
   }
   
   .publication-title {
@@ -703,7 +703,7 @@ code {
   }
   
   .publication-header .hero-body {
-    padding: 4rem 2rem 3rem;
+    padding: 4rem 2rem 1.5rem;
   }
 }
 
@@ -748,6 +748,5 @@ a:focus {
     box-shadow: none !important;
   }
 }
-
 
 
