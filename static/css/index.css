@@ -114,8 +114,7 @@ body {
 
 .teaser-caption {
   margin-top: 1.5rem !important;
-  text-align: justify;
-  text-justify: inter-word;
+  text-align: center;
 }
 
 
@@ -754,4 +753,3 @@ a:focus {
     box-shadow: none !important;
   }
 }
-
